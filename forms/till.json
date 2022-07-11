@@ -1,0 +1,31 @@
+[
+  {
+    "param": "p1",
+    "name": "Organisation ID (*****)",
+    "placeholder": "Enter your id here",
+    "type": "input"
+  },
+  {
+    "param": "p2",
+    "name": "Terminal Name",
+    "placeholder": "",
+    "type": "select",
+    "options": [
+      {
+        "text": "Title1",
+        "value": "41"
+      },
+      {
+        "text": "Title2",
+        "value": "98"
+      }
+    ]
+  },
+  {
+    "param": "p3",
+    "name": "Country",
+    "placeholder": "",
+    "type": "use-country-options",
+    "options": "/countries/options"
+  }
+]

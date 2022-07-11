@@ -1,0 +1,15 @@
+[
+  {
+    "param": "p1",
+    "name": "Number of days for extraction",
+    "placeholder": "Only numbers",
+    "type": "input"
+  },
+  {
+    "param": "p2",
+    "name": "Country",
+    "placeholder": "",
+    "type": "use-custom-options",
+    "options": "/custom/options/countries"
+  }
+]
