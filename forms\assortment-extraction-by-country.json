@@ -1,9 +1,0 @@
-[
-  {
-    "param": "p1",
-    "name": "Country",
-    "placeholder": "",
-    "type": "use-custom-options",
-    "options": "/custom/options/countries"
-  }
-]
