@@ -1,8 +1,0 @@
-[
-  {
-    "param": "p1",
-    "name": "Date",
-    "placeholder": "YYYY-MM-DD HH:mm:ss",
-    "type": "input"
-  }
-]
