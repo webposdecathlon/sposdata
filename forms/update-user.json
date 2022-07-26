@@ -1,0 +1,36 @@
+[
+  {
+    "param": "p1",
+    "name": "Is active",
+    "placeholder": "",
+    "type": "select",
+    "options": [
+      {"text": "Yes",
+        "value": "Y"
+      },
+      {"text": "No",
+        "value": "N"
+      }
+    ]
+  },
+  {
+    "param": "p2",
+    "name": "Is locked",
+    "placeholder": "",
+    "type": "select",
+    "options": [
+      {"text": "Yes",
+        "value": "Y"
+      },
+      {"text": "No",
+        "value": "N"
+      }
+    ]
+  },
+  {
+    "param": "p3",
+    "name": "Username",
+    "placeholder": "Ex: AutoSCO0049,z22webpo",
+    "type": "input"
+  }
+]
