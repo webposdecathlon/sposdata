@@ -1,0 +1,27 @@
+[
+  {
+    "param": "file",
+    "name": "Select file",
+    "placeholder": "Select your CSV file",
+    "type": "file"
+  },
+  {
+    "param": "stores_number",
+    "name": "Store Number (Click * to format)",
+    "placeholder": "Ex: 00700648,00700049",
+    "type": "input"
+  },
+  {
+    "param": "product_id",
+    "name": "Product ID (Click * to format)",
+    "placeholder": "Ex: 1EFEDB321B0F4EABA9E57F0862E8D7F5,5F69F3F9976E4BBBA19D944FBD9D0F44",
+    "type": "input"
+  },
+  {
+    "param": "client_id",
+    "name": "Country",
+    "placeholder": "",
+    "type": "use-custom-options",
+    "options": "/custom/options/countries"
+  }
+]
