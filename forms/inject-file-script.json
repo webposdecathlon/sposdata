@@ -1,0 +1,21 @@
+[
+  {
+    "param": "file",
+    "name": "Select file",
+    "placeholder": "Select your CSV file",
+    "type": "file"
+  },
+  {
+    "param": "stores_number",
+    "name": "Store Number (Click * to formatS)",
+    "placeholder": "Ex: 00700648,00700049",
+    "type": "input"
+  },
+  {
+    "param": "client_id",
+    "name": "Country",
+    "placeholder": "",
+    "type": "use-custom-options",
+    "options": "/custom/options/countries"
+  }
+]
