@@ -1,0 +1,22 @@
+[
+  {
+    "param": "p1",
+    "name": "Is active",
+    "placeholder": "",
+    "type": "select",
+    "options": [
+      {"text": "Yes",
+        "value": "Y"
+      },
+      {"text": "No",
+        "value": "N"
+      }
+    ]
+  },
+  {
+    "param": "p2",
+    "name": "Product Code",
+    "placeholder": "Ex: 2648356,2649582",
+    "type": "input"
+  }
+]
