@@ -1,7 +1,7 @@
 [
   {
     "param": "p1",
-    "name": "Till Number (Click * to formatS)",
+    "name": "Till Number (Click * to format)",
     "placeholder": "Ex: FRK004922,FRK004917",
     "type": "input"
   }
