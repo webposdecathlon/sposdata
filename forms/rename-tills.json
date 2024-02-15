@@ -1,0 +1,14 @@
+[
+  {
+    "param": "p1",
+    "name": "FEDID User",
+    "placeholder": "Your FEDID User",
+    "type": "input"
+  },
+  {
+    "param": "p2",
+    "name": "Store Number (Click * to format)",
+    "placeholder": "Ex: 00700648",
+    "type": "input"
+  }
+]
