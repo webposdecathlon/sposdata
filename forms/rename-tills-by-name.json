@@ -1,0 +1,14 @@
+[
+  {
+    "param": "p1",
+    "name": "FEDID User",
+    "placeholder": "Your FEDID User",
+    "type": "input"
+  },
+  {
+    "param": "p2",
+    "name": "Till Name (Click * to format)",
+    "placeholder": "Ex: FRK004901",
+    "type": "input"
+  }
+]
