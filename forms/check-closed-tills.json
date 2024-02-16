@@ -1,14 +1,8 @@
 [
   {
     "param": "p1",
-    "name": "Number of days for extraction",
-    "placeholder": "Only numbers",
-    "type": "input"
-  },
-  {
-    "param": "p2",
-    "name": "Store Number (Click * to formatS)",
-    "placeholder": "Ex: 00700648,00700049",
+    "name": "Store Number (Click * to format)",
+    "placeholder": "Ex: 00700049",
     "type": "input"
   }
 ]
