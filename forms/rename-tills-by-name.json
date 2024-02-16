@@ -7,7 +7,7 @@
   },
   {
     "param": "p2",
-    "name": "Till Name (Click * to format)",
+    "name": "Till Name",
     "placeholder": "Ex: FRK004901",
     "type": "input"
   }
