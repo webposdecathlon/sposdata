@@ -2,7 +2,7 @@
   {
     "param": "p1",
     "name": "FEDID User",
-    "placeholder": "Your FEDID User",
+    "placeholder": "",
     "type": "input"
   },
   {
