@@ -1,7 +1,7 @@
 [
   {
     "param": "p1",
-    "name": "Store Number (Click * to format)",
+    "name": "Store Number",
     "placeholder": "Ex: 00700049",
     "type": "input"
   }
